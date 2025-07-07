@@ -28,9 +28,6 @@
 
 ## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Snapskillz123&layout=compact&theme=tokyonight)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Snapskillz123&show_icons=true&theme=tokyonight)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Snapskillz123&theme=tokyonight&row=1)
 
