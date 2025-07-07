@@ -1,16 +1,32 @@
-## Hi there 👋
+### 👋 Hi there, I'm Aditya Ram!
 
-<!--
-**Snapskillz123/Snapskillz123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a third-year student at **MIT Manipal**, India  
+🔐 Member of **Cryptonite**, our cybersecurity student project  
+🏆 Our CTF team is currently **ranked #3 in India**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+
+- **Languages:** Python, C, C++, SQL  
+- **Domains:** Cybersecurity, Data Science, Machine Learning, AI  
+- **Interests:** Data Analytics, Cryptography
+
+---
+
+### 🔬 Currently Working On
+
+- 🧠 **Research in AI/ML** – exploring real-world applications and ethical AI  
+- 📊 **Data Science Projects** – using data for insights and predictions  
+- 🔒 **Capture The Flag (CTF)** events and cryptographic challenges with my team
+
+---
+
+### 🚀 Let's Connect!
+
+Feel free to reach out or collaborate:
+
+- 📧 Email: [adityaram1908@gmail.com](mailto:adityaram1908@gmail.com)  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/adityaram123/](https://www.linkedin.com/in/adityaram123/)  
+
+---
