@@ -1,5 +1,5 @@
-👋 Hi there, I'm Aditya Ram!</h1>
-
+# 👋 Hi there, I'm Aditya Ram!</h1>
+</p>
 🎓 I'm a third-year student at <strong>MIT Manipal</strong>, India <br>
 🔐 Member of <strong>Cryptonite</strong>, our cybersecurity student project <br>
 🏆 Our CTF team is currently <strong>ranked #3 in India</strong>
@@ -31,8 +31,8 @@
 ---
 
 ## 📈 GitHub Stats:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Snapskillz123&layout=compact&theme=tokyonight)
 
-<img src="https://github-profile-trophy.vercel.app/?username=adityaram123&theme=tokyonight&row=1" />
 
 
 ---
