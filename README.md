@@ -1,28 +1,24 @@
-# 👋 Hi there, I'm Aditya Ram!</h1>
-</p>
-🎓 I'm a third-year student at <strong>MIT Manipal</strong>, India <br>
-🔐 Member of <strong>Cryptonite</strong>, our cybersecurity student project <br>
-🏆 Our CTF team is currently <strong>ranked #3 in India</strong>
-</p>
+# 👋 Hi there, I'm Aditya Ram!
+
+🎓 I'm a third-year student at **MIT Manipal**, India  
+🔐 Member of **Cryptonite**, our cybersecurity student project  
+🏆 Our CTF team is currently **ranked #3 in India**
 
 ---
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-
-  <b>Domains:</b> Cybersecurity • Data Science • Machine Learning • AI<br>
-  <b>Interests:</b> Data Analytics • Cryptography
-
+**Domains:** Cybersecurity • Data Science • Machine Learning • AI  
+**Interests:** Data Analytics • Cryptography
 
 ---
 
-## 🔬 Currently Working On:
+## 🔬 Currently Working On
 
 - 🧠 Research in **AI/ML** – exploring real-world applications and ethical AI  
 - 📊 **Data Science Projects** – using data for insights and predictions  
@@ -30,15 +26,18 @@
 
 ---
 
-## 📈 GitHub Stats:
+## 📈 GitHub Stats
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Snapskillz123&layout=compact&theme=tokyonight)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Snapskillz123&show_icons=true&theme=tokyonight)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Snapskillz123&theme=tokyonight&row=1)
 
 
 ---
 
-## 🚀 Let's Connect!
+## 🌐 Let's Connect
 
-  📧 <a href="mailto:adityaram1908@gmail.com">adityaram1908@gmail.com</a> <br>
-  💼 <a href="https://www.linkedin.com/in/adityaram123/">LinkedIn: adityaram123</a>
-
+📧 [adityaram1908@gmail.com](mailto:adityaram1908@gmail.com)  
+💼 [LinkedIn: adityaram123](https://www.linkedin.com/in/adityaram123/)
