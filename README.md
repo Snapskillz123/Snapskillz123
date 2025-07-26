@@ -35,6 +35,10 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Snapskillz123&theme=tokyonight&row=1)
 
+## 📊 Language Usage
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Snapskillz123&layout=compact&theme=radical)
+
 
 ---
 
