@@ -37,7 +37,7 @@
 
 ## 📊 Language Usage
 
-[![Top Langs](https://github-readme-stats.vercel.app)](https://github.com/Snapskillz123/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Snapskillz123=myusername&hide=javascript,css,scss,html&theme=tokyonight)
 
 
 ---
