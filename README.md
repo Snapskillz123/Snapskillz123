@@ -37,7 +37,7 @@
 
 ## 📊 Language Usage
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Snapskillz123&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app)](https://github.com/Snapskillz123/github-readme-stats)
 
 
 ---
