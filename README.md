@@ -29,7 +29,7 @@
 - 🔒 **CTF Challenges** – solving cryptographic problems with my team
 
 ## 📈 GitHub Stats
-![Trophies](https://github-profile-trophy.vercel.app/?username=Snapskillz123&theme=tokyonight&row=1)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Snapskillz123&show_icons=true&theme=tokyonight)
 
 ## 📊 Language Usage
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snapskillz123&hide=javascript,css,scss,html&theme=tokyonight)
