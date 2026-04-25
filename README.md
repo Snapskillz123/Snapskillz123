@@ -28,20 +28,11 @@
 - 📊 **Data Science Projects** – using data for insights and predictions  
 - 🔒 **CTF Challenges** – solving cryptographic problems with my team
 
----
-
 ## 📈 GitHub Stats
-
-
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Snapskillz123&theme=tokyonight&row=1)
 
 ## 📊 Language Usage
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Snapskillz123=myusername&hide=javascript,css,scss,html&theme=tokyonight)
-
-
----
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snapskillz123&hide=javascript,css,scss,html&theme=tokyonight)
 ## 🚀 Let's Connect
 
 📧 [adityaram1908@gmail.com](mailto:adityaram1908@gmail.com)  
